@@ -1,0 +1,16 @@
+# Core stack -- pre-installed on Google Colab, listed here only for local/offline use
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Needed from Day 2 onward (feature engineering / descriptors)
+matminer
+pymatgen
+
+# Needed for Day 4 (neural networks / CNNs) -- pre-installed on Colab
+tensorflow
+
+# Needed for Day 5 (Bayesian optimisation)
+botorch
+gpytorch
