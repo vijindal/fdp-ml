@@ -29,15 +29,25 @@ Each practical session has a notebook in `notebooks/` and, where needed, a datas
 
 ## Notebooks
 
-| Day | Practical | Open in Colab |
-|---|---|---|
-| 1 | Hall-Petch relation -- linear regression & linearization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/day1/day1_hallpetch_practical.ipynb) |
-| 2 | *(coming soon)* | |
-| 3 | *(coming soon)* | |
-| 4 | *(coming soon)* | |
-| 5 | *(coming soon)* | |
+| Day | Session | Practical | Open in Colab |
+|---|---|---|---|
+| 1 | 3 | Hall-Petch relation -- linear regression & linearization (7-point example dataset) | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/day1/day1_hallpetch_practical.ipynb) |
+| 1 | 3 | Hall-Petch across a real literature dataset (Copper, 198 points) -- data-fetching techniques, quizzes, nanocrystalline breakdown | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/day1/day1_session3_cu_practical.ipynb) |
+| 1 | 4 | *(coming soon -- Fe/BCC and Ti/HCP comparison)* | |
+| 2 | | *(coming soon)* | |
+| 3 | | *(coming soon)* | |
+| 4 | | *(coming soon)* | |
+| 5 | | *(coming soon)* | |
 
 *(This table will be updated as each day's notebooks are finalized.)*
+
+---
+
+## Datasets
+
+- **`day1_hallpetch.csv`** -- a small, clean 7-point grain-size/yield-stress example table.
+- **`hallpetch_multimetal_data.csv`** -- 1,445 real grain-size/strength measurements across 20 pure metals, compiled from six decades of published literature. Sourced from:
+  > Cordero, Z.C., Knight, B.E., & Schuh, C.A. (2016). *Six decades of the Hall-Petch effect -- a survey of grain-size strengthening studies on pure metals.* International Materials Reviews, 61(8), 495-512.
 
 ---
 
@@ -49,7 +59,9 @@ fdp-ml/
 ├── requirements.txt        # for local/offline use only -- Colab needs none of this
 ├── day1/
 │   ├── day1_hallpetch_practical.ipynb
-│   └── day1_hallpetch.csv
+│   ├── day1_hallpetch.csv
+│   ├── day1_session3_cu_practical.ipynb
+│   └── hallpetch_multimetal_data.csv
 ├── day2/                    # coming soon
 ├── day3/                    # coming soon
 ├── day4/                    # coming soon
