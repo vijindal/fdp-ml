@@ -31,7 +31,7 @@ Each practical session has a notebook in `notebooks/` and, where needed, a datas
 
 | Day | Practical | Open in Colab |
 |---|---|---|
-| 1 | Hall-Petch relation -- linear regression & linearization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day1_hallpetch_practical.ipynb) |
+| 1 | Hall-Petch relation -- linear regression & linearization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/day1/day1_hallpetch_practical.ipynb) |
 | 2 | *(coming soon)* | |
 | 3 | *(coming soon)* | |
 | 4 | *(coming soon)* | |
@@ -47,10 +47,13 @@ Each practical session has a notebook in `notebooks/` and, where needed, a datas
 fdp-ml/
 ├── README.md
 ├── requirements.txt        # for local/offline use only -- Colab needs none of this
-├── data/                   # one CSV per practical, loaded directly via raw GitHub URL
+├── day1/
+│   ├── day1_hallpetch_practical.ipynb
 │   └── day1_hallpetch.csv
-└── notebooks/               # one notebook per practical
-    └── day1_hallpetch_practical.ipynb
+├── day2/                    # coming soon
+├── day3/                    # coming soon
+├── day4/                    # coming soon
+└── day5/                    # coming soon
 ```
 
 ## Contact
