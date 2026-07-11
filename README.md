@@ -49,8 +49,6 @@ fdp-ml/
 ├── README.md
 ├── requirements.txt        # for local/offline use only -- Colab needs none of this
 └── notebooks/               # all notebooks and their datasets, loaded directly via raw GitHub URL
-    ├── day1_hallpetch_practical.ipynb
-    ├── day1_hallpetch.csv
     ├── day1_session3_cu_practical.ipynb
     ├── hallpetch_multimetal_data.csv
     ├── day1_session4_gradient_descent.ipynb
