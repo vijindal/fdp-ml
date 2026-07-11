@@ -32,7 +32,7 @@ in Google Colab.
 
 | Day | Practical | Open in Colab |
 |---|---|---|
-| 1 | Hall-Petch relation -- linear regression & linearization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day1_hallpetch_practical.ipynb) |
+| 1 | Hall-Petch relation -- linear regression & linearization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day1_session3_cu_practical.ipynb) |
 | 2 | *(coming soon)* | |
 | 3 | *(coming soon)* | |
 | 4 | *(coming soon)* | |
