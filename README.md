@@ -35,6 +35,7 @@ in Google Colab.
 | 1 | Hall-Petch relation -- linear regression & linearization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day1_session3_cu_practical.ipynb) |
 | 1 | Feature Engineering & Descriptors for Materials | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day1_session4_FeatureEngineering_Descriptors.ipynb) |
 | 2 | Gradient descent -- cost function derivation, worked convergence, convexity, hyperparameters, feature scaling | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day2_session2_gradient_descent.ipynb) |
+| 2 | Logistic regression -- classifying alloy phase (FCC vs. not-FCC) on the MPEA dataset; sigmoid, decision boundary, confusion matrix, precision/recall, ROC vs. PR curves, and L2 regularization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day2_session2_LogisticRegression_Classification.ipynb) |
 | 3 | *(coming soon)* | |
 | 4 | *(coming soon)* | |
 | 5 | *(coming soon)* | |
@@ -56,6 +57,7 @@ fdp-ml/
     ├── SupplementaryMaterial1_GrainSizeStrengtheningData.txt
     ├── SupplementaryMaterial2_ExperimentalInfo.pdf
     ├── day2_session2_gradient_descent.ipynb
+    ├── day2_session2_LogisticRegression_Classification.ipynb
     ├── MPEA_dataset.csv
     ├── MPEA_featurized.csv
     ├── Clustering_Session3_Nanoindentation_Practical.ipynb
