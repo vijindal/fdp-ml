@@ -33,8 +33,8 @@ in Google Colab.
 | Day | Practical | Open in Colab |
 |---|---|---|
 | 1 | Hall-Petch relation -- linear regression & linearization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day1_session3_cu_practical.ipynb) |
-| 1 | Feature Engineering & Descriptors for Materials | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/FeatureEngineering_Descriptors.ipynb) |
-| 2 | *(coming soon)* | |
+| 1 | Feature Engineering & Descriptors for Materials | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day1_session4_FeatureEngineering_Descriptors.ipynb) |
+| 2 | Gradient descent -- cost function derivation, worked convergence, convexity, hyperparameters, feature scaling | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day2_session2_gradient_descent.ipynb) |
 | 3 | *(coming soon)* | |
 | 4 | *(coming soon)* | |
 | 5 | *(coming soon)* | |
@@ -52,10 +52,10 @@ fdp-ml/
 └── notebooks/               # all notebooks and their datasets, loaded directly via raw GitHub URL
     ├── day1_session3_cu_practical.ipynb
     ├── hallpetch_multimetal_data.csv
-    ├── day1_session4_gradient_descent.ipynb
+    ├── day1_session4_FeatureEngineering_Descriptors.ipynb
     ├── SupplementaryMaterial1_GrainSizeStrengtheningData.txt
     ├── SupplementaryMaterial2_ExperimentalInfo.pdf
-    ├── FeatureEngineering_Descriptors.ipynb
+    ├── day2_session2_gradient_descent.ipynb
     ├── MPEA_dataset.csv
     ├── MPEA_featurized.csv
     ├── Clustering_Session3_Nanoindentation_Practical.ipynb
