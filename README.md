@@ -38,8 +38,7 @@ in Google Colab.
 | 2 | Logistic regression -- classifying alloy phase (FCC vs. not-FCC) on the MPEA dataset; sigmoid, decision boundary, confusion matrix, precision/recall, ROC vs. PR curves, and L2 regularization | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/day2_session2_LogisticRegression_Classification.ipynb) |
 | 3 | Random Forest & ensemble methods -- decision trees, bagging, feature importance on steel strength prediction | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/Day3_Session2_RandomForest_Practical.ipynb) |
 | 3 | Clustering & dimensionality reduction -- K-means, hierarchical clustering, PCA, and spatial mapping of nanoindentation data | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/Day3_Session4_Clustering_Practical.ipynb) |
-| 4 | *(coming soon)* | |
-| 5 | *(coming soon)* | |
+| Capstone | Fully worked capstone example -- Random Forest regression on the steel strength dataset, start to finish | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/Capstone_Template_Notebook.ipynb) |
 
 *(This table will be updated as each day's notebooks are finalized.)*
 
