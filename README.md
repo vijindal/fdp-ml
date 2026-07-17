@@ -39,6 +39,7 @@ in Google Colab.
 | 3 | Random Forest & ensemble methods -- decision trees, bagging, feature importance on steel strength prediction | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/Day3_Session2_RandomForest_Practical.ipynb) |
 | 3 | Clustering & dimensionality reduction -- K-means, hierarchical clustering, PCA, and spatial mapping of nanoindentation data | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/Day3_Session4_Clustering_Practical.ipynb) |
 | 4 | CNN metal defect classification -- convolutional neural networks for image-based classification of surface defects | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/CNN%20Metal%20Defect%20Classification.ipynb) |
+| 5 | Bayesian Optimisation -- Gaussian Process surrogate model and Expected Improvement to find a high-hardness alloy in the MPEA dataset with far fewer experiments than random search | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/BayesianOptimisation_AlloyHardness_Practical.ipynb) |
 | Capstone | Fully worked capstone example -- Random Forest regression on the steel strength dataset, start to finish | [Open](https://colab.research.google.com/github/vijindal/fdp-ml/blob/main/notebooks/Capstone_Template_Notebook.ipynb) |
 
 *(This table will be updated as each day's notebooks are finalized.)*
